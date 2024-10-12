@@ -8,17 +8,7 @@
 
 
 /*
-	3 interruptores -> 3 lampadas.
-	
-	
-	intA 
-	intB 
-	intC 
-	
-	sala1
-	sala2
-	sala3
-	
+	3 interruptores (intA, intB, intC ) -> 3 lampadas (sala1, sala2, sala3).
 	
 	PASSOS:
 	
